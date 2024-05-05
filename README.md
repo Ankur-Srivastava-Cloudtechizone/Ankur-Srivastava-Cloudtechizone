@@ -3,9 +3,10 @@
 
 <img align="right" alt="DevSecOps" width="400" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif">
 
-# Professional Profile
+**Professional Profile**
 
-## About Me
+**About Me**
+
 I am a seasoned DevSecOps professional with over 15 years of extensive experience in the IT industry. With a strong foundation in Azure DevSecOps and over 7 years of dedicated cloud experience, I have spearheaded numerous successful projects ranging from On-prem to Azure cloud migrations, greenfield infrastructure builds on OCI platforms, to orchestrating complex High Performance Computing (HPC) cycle clouds.
 
 ## Expertise Highlights
