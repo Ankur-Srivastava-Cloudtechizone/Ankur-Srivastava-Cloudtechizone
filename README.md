@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ankur Srivastava</h1>
 <h3 align="center">A passionate Azure DevSecOps Engineer from India</h3>
 
-<img align="right" alt="DevSecOps" width="400" src="![image](https://github.com/Ankur-Srivastava-Cloudtechizone/Ankur-Srivastava-Cloudtechizone/assets/168817123/bcdcaf94-371a-4ca0-9771-d23c9e9894e7)
-">
+<img align="right" alt="DevSecOps" width="300" src="https://github.com/Ankur-Srivastava-Cloudtechizone/Ankur-Srivastava-Cloudtechizone/assets/168817123/117db855-dd4a-4d38-8dc7-ebac3fb05980">
+
 # Professional Profile
 
 ## About Me
