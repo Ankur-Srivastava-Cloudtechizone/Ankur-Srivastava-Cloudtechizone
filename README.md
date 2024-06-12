@@ -38,4 +38,4 @@ I am a seasoned DevSecOps professional with over 15 years of extensive experienc
 Feel free to reach out to discuss collaborations, opportunities, or just to connect!
 
 - Email: ankursrivastava@cloudtechizone.in
-- LinkedIn: https://www.linkedin.com/in/ankur-srivastava-telecom/
+- LinkedIn: (https://www.linkedin.com/in/ankur-srivastava-cloudtechizone/)
