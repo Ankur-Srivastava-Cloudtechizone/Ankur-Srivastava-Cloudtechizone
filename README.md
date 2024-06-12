@@ -24,7 +24,8 @@ I am a seasoned DevSecOps professional with over 15 years of extensive experienc
 - 📢 **Excellent Communication**: Strong verbal and written communication skills, capable of articulating technical concepts to both technical and non-technical stakeholders.
 
 ## Experience Overview
-- **Azure DevSecOps**: 15+ years
+- **Overall Experience**: 15+ years
+- **Azure DevSecOps**: 5+ years
 - **Cloud Experience**: 7+ years
 - **On-prem to Azure Cloud Migration**: Multiple successful projects
 - **Greenfield Infra Build on OCI Platform**: Lead architect for several initiatives
@@ -35,7 +36,7 @@ I am a seasoned DevSecOps professional with over 15 years of extensive experienc
 
 
 ## Contact
-Feel free to reach out to discuss collaborations, opportunities, or just to connect!
+Feel free to reach out to discuss collaborations, and opportunities, or just to connect!
 
 - Email: ankursrivastava@cloudtechizone.in
-- LinkedIn: (https://www.linkedin.com/in/ankur-srivastava-cloudtechizone/)
+- LinkedIn: https://www.linkedin.com/in/ankur-srivastava-cloudtechizone/
